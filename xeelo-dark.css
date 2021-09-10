@@ -1,0 +1,36 @@
+body {
+  --xe-modal-backdrop-bg-color: var(--xe-dark-80);
+  --is-control-border-color: var(--xe-dark-24);
+  --xe-dropdown-open-item-hover-bg-color: var(--xe-dark-64);
+  --xe-general-text-default-light-color: var(--xe-dark-24);
+  --xe-navbar-bg-color: var(--xe-dark-96);
+  --xe-dropdown-open-body-bg-color: var(--xe-dark-88);
+  --xe-dropdown-open-body-fg-color: var(--xe-white);
+  --xe-general-theme-bg-color: var(--xe-dark-88);
+  --xe-grid-title-color: var(--xe-blue-40);
+  --xe-grid-filter-block-bg-color: var(--xe-dark-96);
+  --xe-grid-row-inprogress-hovered-bg-color: var(--xe-dark-72);
+  --xe-grid-row-inprogress-bg-color: var(--xe-dark-72);
+  --xe-grid-row-hovered-bg-color: var(--xe-dark-64);
+  --xe-grid-filter-bg-color: var(--xe-dark-100);
+  --xe-empty-state-second-color: var(--xe-white);
+  --xe-empty-state-second-line-fg-color: var(--xe-white);
+  --xe-empty-state-first-line-fg-color: var(--xe-white);
+  --xe-empty-state-first-color: var(--xe-white);
+  --xe-grid-row-bg: var(--xe-dark-80);
+  --xe-grid-priority-unknown-color: var(--xe-white);
+  --xe-general-text-default-color: var(--xe-dark-24);
+  --xe-general-text-default-bg-color: var(--xe-dark-100);
+  --xe-general-theme-bg-secondary-color: var(--xe-dark-88);
+  --is-section-header-bg-color: var(--xe-dark-96);
+  --is-tabset-nav-bg-color: var(--xe-dark-96);
+  --xe-tabset-content-bg-color: var(--xe-dark-96);
+  --xe-btn-default-fg-color: var(--xe-white);
+  --xe-btn-default-bg-color: var(--xe-dark-40);
+  background: var(--xe-dark-100);
+  --xe-btn-segment-bg-color: var(--xe-dark-88);
+  --xe-btn-segment-fg-color: var(--xe-dark-24);
+  --xe-btn-segment-bg-selected-color: var(--xe-dark-80);
+  --is-control-bg-color: var(--xe-dark-72);
+  --is-portlet-border-color: var(--xe-dark-64);
+}
